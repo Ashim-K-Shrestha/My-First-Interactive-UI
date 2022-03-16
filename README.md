@@ -18,3 +18,10 @@ consists of the similar views and functionalities.**
 
 **The screenshot above shows the landscape view of the final UI for the coding challenge section of lab 1 displayed in
 landscape mode of a physical device.**
+
+---
+
+## Count Feature
+![Count](SS/CCCount.png)
+
+**The screenshot above shows the counter feature being executed properly in the physical device.**
