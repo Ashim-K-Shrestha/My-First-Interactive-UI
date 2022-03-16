@@ -9,7 +9,8 @@ within this branch and they are given below.**
 ![Final UI](SS/CodingChallenge.png)
 
 **The screenshot above shows the final UI for the Coding Challenge section of the lab 1. It is similar to the task section and 
-consists of the similar views and functionalities.**
+consists of the similar views and functionalities. The changes made were the layout width set to wrap the content only for the 
+buttons and text view.**
 
 ---
 
